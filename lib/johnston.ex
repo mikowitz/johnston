@@ -1,0 +1,2 @@
+defmodule Johnston do
+end
